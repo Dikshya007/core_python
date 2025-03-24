@@ -1,0 +1,6 @@
+student=('Ram', 'Hari',1,'Mina' ,1,7.1,True ) 
+print(type(student))
+print(student)
+print(student[2])
+print(student.count(1))
+print(student.index(1))
