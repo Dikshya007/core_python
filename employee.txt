@@ -1,0 +1,3 @@
+ram,21,21000,rolpa
+tapsu,20,50000,rukum
+gita,22,100000,tulsipur
